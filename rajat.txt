@@ -1,3 +1,6 @@
-aahgfwjefbihweegfh
-fweufgwjkeef
-wfwhfbwhvbf
+@echo off
+
+for /L %%r  in (1,2,5) do (echo %%r)
+
+
+pause
